@@ -70,3 +70,5 @@ use it in your own bot projects.
 [the Quickstart guide]: https://telegrambots.github.io/book/1/quickstart.html
 [Telegram.Bot.Extensions.LoginWidget]: https://github.com/TelegramBots/Telegram.Bot.Extensions.LoginWidget
 [Telegram.Bot.Extensions.Passport]: https://github.com/TelegramBots/Telegram.Bot.Extensions.Passport
+
+This is fork.
